@@ -1,0 +1,6 @@
+require "options"
+require "ui.tabline"
+require "keymaps"
+require "autocmds"
+require "lsp"
+require "plugin_manager"
